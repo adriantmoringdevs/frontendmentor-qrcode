@@ -1,0 +1,11 @@
+body { background-color: hsl(212, 45%, 89%);
+    font-family: "Outfit", sans-serif;
+}
+
+.header{
+    font-weight: 700
+}
+
+.description{
+    font-weight: 400;
+}
