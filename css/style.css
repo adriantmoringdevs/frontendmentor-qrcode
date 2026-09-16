@@ -18,12 +18,8 @@ body {
   padding: 15px;
 }
 
-/* .qr-container{
-    
-} */
-
 .text {
-    padding: 20px;
+  padding: 20px;
 }
 
 .header {
@@ -32,8 +28,8 @@ body {
 }
 
 img {
-    width: 100%;
-    border-radius: 10px;
+  width: 100%;
+  border-radius: 10px;
 }
 
 .description {
@@ -43,6 +39,6 @@ img {
 }
 
 footer {
-    position: absolute;
-    bottom: 1rem;
+  position: absolute;
+  bottom: 1rem;
 }
